@@ -1,0 +1,50 @@
+{
+  "groups": [
+    {
+      "name": "my.app",
+      "type": "in.nkn.comp.Company2",
+      "sourceType": "in.nkn.comp.Company2"
+    },
+    {
+      "name": "org.nkn",
+      "type": "in.nkn.comp.Company",
+      "sourceType": "in.nkn.comp.Company"
+    }
+  ],
+  "properties": [
+    {
+      "name": "my.app.location",
+      "type": "java.lang.String",
+      "sourceType": "in.nkn.comp.Company2"
+    },
+    {
+      "name": "my.app.name",
+      "type": "java.lang.String",
+      "sourceType": "in.nkn.comp.Company2"
+    },
+    {
+      "name": "my.app.type",
+      "type": "java.lang.String",
+      "sourceType": "in.nkn.comp.Company2"
+    },
+    {
+      "name": "org.nkn.location",
+      "type": "java.lang.String",
+      "sourceType": "in.nkn.comp.Company"
+    },
+    {
+      "name": "org.nkn.name",
+      "type": "java.lang.String",
+      "sourceType": "in.nkn.comp.Company"
+    },
+    {
+      "name": "org.nkn.type",
+      "type": "java.lang.String",
+      "sourceType": "in.nkn.comp.Company"
+    }
+  ],
+  "hints": [],
+  "ignored": {
+    "properties": []
+  }
+}
