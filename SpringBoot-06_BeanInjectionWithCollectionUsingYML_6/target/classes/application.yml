@@ -1,0 +1,31 @@
+# Conversion to YAML from Properties formar report
+# Warnings:
+# - The yaml file had comments which are lost in the refactoring!
+spring:
+  application:
+    name: SpringBoot-03_RealTimeDependecyMgmt-4
+emp:
+  info:
+    id: 43125
+    name: Narendar
+    company:
+      name: ABCD
+      location: Thane
+      size: 35
+    skill-set:
+    - Java
+    - JEE
+    - ORM
+    - Spring
+    projects:
+    - SuperApp
+    - ServiceApp
+    - LMS
+    mobile-number:
+    - 9137364564
+    - 9838771315
+    - 9820466103
+    id-details:
+      adharNo: 503843620477
+      panNO: CLRPN2493Q
+      voterId: 123654
